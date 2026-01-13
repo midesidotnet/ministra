@@ -6,7 +6,7 @@ Ministra Portal auto install script on Ubuntu 20.04 LTS / 18.04 LTS
 ##### Runs on
 [![Ubuntu](https://user-images.githubusercontent.com/12951085/139538206-833d8d33-0d1b-4d51-8ec8-86e5cf14f82e.png)](https://www.ubuntu.com)
 
-This script work only on Clean Ubuntu 20.04 LTS / 18.04 LTS
+This script works only on Clean Ubuntu 20.04 LTS / 18.04 LTS
 
 Ministra auto install script
   * Version of Ministra 5.6.8
@@ -14,7 +14,7 @@ Ministra auto install script
 ## Installation
 ```bash
 apt-get install git
-git clone https://github.com/madzharov/ministra-install-ubuntu-20.04.git
+git clone https://github.com/midesidotnet/ministra.git
 cd ministra-install-ubuntu-20.04/
 ```
 
@@ -22,7 +22,7 @@ Open ministra_install_ubuntu.20.04.sh with your favorite text editor and change 
 ```bash
 mysql_root_password="test123456"
 ```
-This is the root password for MySQL that will be set during the installation, you can change it with yours if you wish.
+This is the root password for MySQL that will be set during the installation. You can change it to yours if you wish.
 
 
 And on line 10 change
