@@ -40,7 +40,7 @@ Accordingly, during the installation, when executing the last command, phing wil
 
 
 
-You can access your stalker portal at: http://ipadres/stalker_portal The username and password to login to the portal are your default
+You can access your stalker portal at: http://"ip-address"/stalker_portal The username and password to login to the portal are your default
 ```
 Login: admin
 pass: 1
@@ -57,5 +57,3 @@ truncate itv;
 
 [![Click to Watch](https://img.youtube.com/vi/6b2vlc-jPPQ/hq720.jpg)](https://www.youtube.com/watch?v=6b2vlc-jPPQ "Click to Watch")
 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=4H8VAGMLW5RMA)  You can make one-time donations via PayPal.
